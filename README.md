@@ -1,3 +1,6 @@
-# My Awesome Book
+# Todo lo que siempre quisiste saber sobre plugins de wordpress y nunca pudiste preguntar
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+En este breve manual vamos a ver los plugins que puedes usar para mejorar tu experiencia en Wordpress.
+
+Escribirlo en GitBook pretende ser una forma de mantenerlo siempre abierto y vivo, sujeto a modificaciones, mejoras y ampliaciones por parte de la comunidad.
+

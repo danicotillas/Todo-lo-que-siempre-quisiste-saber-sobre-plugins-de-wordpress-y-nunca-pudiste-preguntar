@@ -1,3 +1,6 @@
-# First Chapter
+## ¿Qué es WordPress?
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+WordPress es un gestor de contenidos \(CMS\) libre y comunitario que permite poner en funciomaiento tu página web. Dada su evolución a lo largo de los años, hoy permite construir desde sencillos blogs, hasta páginas web con cierta complejidad. No es por casualidad que ha ido ganando adeptos hasta superar el 27% del total de las webs en el mundo.
+
+Para tener tu sitio en funcionamiento, puedes usar la solución "en la nube" que WordPress \(WP\) brinda de forma gratuita, y que está disponible en wordpress.com. En este caso tu sitio quedará alojado en lo-que-sea.wordpress.com y la funcionalidad está limitada a lo que WP.com ha dispuesto.
+
