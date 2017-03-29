@@ -4,3 +4,5 @@ WordPress es un gestor de contenidos \([CMS](https://es.wikipedia.org/wiki/Siste
 
 Para tener tu sitio en funcionamiento, puedes usar la solución "en la nube" que WordPress \(WP\) brinda de forma gratuita, y que está disponible en wordpress.com. En este caso tu sitio quedará alojado en lo-que-sea.wordpress.com y la funcionalidad está limitada a lo que WP.com ha dispuesto.
 
+Modificando desde Sublime text bajado de Github en local
+
