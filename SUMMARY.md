@@ -1,4 +1,6 @@
-# ÍNDICE
+# Summary
+
+## INTRODUCCIÓN
 
 * [Introducción](README.md)
 * [¿Qué es WordPress?](chapter1.md)
@@ -9,5 +11,7 @@
 * [Usabilidad](usabilidad.md)
 * [Otros](otros.md)
 
+## Tipos de organizaciones
 
+* [Wordpress para medios comunitarios](wordpress-para-medios-comunitarios.md)
 
