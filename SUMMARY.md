@@ -1,4 +1,4 @@
-# Summary
+# ÍNDICE
 
 * [Introducción](README.md)
 * [¿Qué es WordPress?](chapter1.md)
@@ -8,4 +8,6 @@
 * [Imágenes](imagenes.md)
 * [Usabilidad](usabilidad.md)
 * [Otros](otros.md)
+
+
 
