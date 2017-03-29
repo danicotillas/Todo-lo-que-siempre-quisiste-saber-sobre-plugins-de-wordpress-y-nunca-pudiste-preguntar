@@ -1,13 +1,5 @@
 ## Social
 
-#### JetPack \(pros y contras de un SAAS\)
-
-Sirve para:
-
-Descarga: [https://wordpress.org/plugins/jetpack/](https://wordpress.org/plugins/jetpack/)
-
----
-
 #### WPtoDiaspora
 
 Sirve para: Publicar automáticamente tus entradas en Diáspora.
