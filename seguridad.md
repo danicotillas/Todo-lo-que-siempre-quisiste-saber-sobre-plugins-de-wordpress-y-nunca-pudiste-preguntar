@@ -14,7 +14,7 @@ Descarga: [https://wordpress.org/plugins/two-factor/](https://wordpress.org/plug
 
 #### Akismet - Evita el spam
 
-\(FIXME: aquí no estoy tan seguro ya que es un SAAS y existen alternativas como honeypot\)
+\(FIXME: aquí no estoy tan seguro ya que es un SAAS y --creo que de pago-- y existen alternativas como honeypot\)
 
 Sirve para:
 
