@@ -20,3 +20,13 @@ Sirve para:
 
 Descarga: [https://wordpress.org/plugins/akismet/](https://wordpress.org/plugins/akismet/)
 
+---
+
+#### Wordfence Security - Seguridad contra crawlers, firewall y más
+
+Uno de los mejores plugins para estar seguras que todo lo que ocurre en mi página está bajo control. Lo mejor es configurar las opciones para no gastar mucho ancho de banda del servidor. \(FIXME: poner las recomendaciones de configuración.\)
+
+Descarga: [https://es.wordpress.org/plugins/wordfence/](https://es.wordpress.org/plugins/wordfence/)
+
+
+
