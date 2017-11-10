@@ -1,3 +1,5 @@
+# ![](/assets/wordpress-plugins.png)
+
 # Todo lo que siempre quisiste saber sobre plugins de wordpress y nunca pudiste preguntar
 
 En este breve manual vamos a ver los plugins que puedes usar para mejorar tu experiencia en Wordpress.
